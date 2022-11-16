@@ -1,0 +1,100 @@
+:root {
+  /* fonts */
+  --inter-regular-18px: Inter;
+  --font-barlow: Barlow;
+  --font-outfit: Outfit;
+  --font-open-sans: "Open Sans";
+  --pj-semi-bold-16px: "Plus Jakarta Sans";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-2xs: 12px;
+  --font-size-xs: 14px;
+  --font-size-sm: 15px;
+  --pj-semi-bold-16px-size: 16px;
+  --font-size-lg: 17px;
+  --inter-regular-18px-size: 18px;
+  --font-size-2xl: 20px;
+  --font-size-3xl: 22px;
+  --font-size-4xl: 24px;
+  --font-size-5xl: 28px;
+  --font-size-6xl: 32px;
+  --font-size-7xl: 40px;
+  --font-size-8xl: 50px;
+  --pj-bold-52px-size: 52px;
+  --font-size-10xl: 55px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fafafa;
+  --color-gray-200: #f2f5f8;
+  --color-gray-300: #e7e7e7;
+  --color-gray-400: #e2e2e2;
+  --color-gray-500: #d9d9d9;
+  --color-gray-600: #bbb;
+  --color-gray-700: #a4a4a4;
+  --color-gray-800: #878787;
+  --color-gray-900: #667c8a;
+  --color-gray-1000: #2489d3;
+  --gray-500: #71717a;
+  --color-gray-1200: #5b5b5b;
+  --color-gray-1300: #435d6b;
+  --gray-600: #52525b;
+  --color-gray-1500: #3f3f3f;
+  --color-gray-1600: #202c59;
+  --gray-900: #18181b;
+  --color-gray-1800: #10131a;
+  --color-gray-1900: #101010;
+  --color-gray-2000: rgba(32, 44, 89, 0.51);
+  --color-gray-2100: rgba(0, 0, 0, 0.4);
+  --color-indigo-100: #1072eb;
+  --color-indigo-200: #5c24d3;
+  --color-indigo-300: #142c8e;
+  --color-indigo-400: #00288f;
+  --base-black: #000;
+  --color-blue-100: #5200ff;
+  --color-blue-200: #221eff;
+  --color-blue-300: #4700df;
+  --color-brown: #ff4d8b;
+
+  /* Gaps */
+  --gap-0: 0px;
+  --gap-2xs: 6px;
+  --gap-xs: 9px;
+  --gap-sm: 11px;
+  --gap-md: 26px;
+  --gap-lg: 32px;
+  --gap-xl: 45px;
+  --gap-2xl: 47px;
+
+  /* Paddings */
+  --padding-4xs: 6px;
+  --padding-3xs: 7px;
+  --padding-2xs: 10px;
+  --padding-xs: 14px;
+  --padding-sm: 15px;
+  --padding-md: 16px;
+  --padding-lg: 17px;
+  --padding-xl: 19px;
+  --padding-2xl: 21px;
+  --padding-3xl: 50px;
+  --padding-4xl: 53px;
+
+  /* border radiuses */
+  --br-7xs: 2.5px;
+  --br-6xs: 5px;
+  --br-5xs: 8px;
+  --br-4xs: 10px;
+  --br-3xs: 15px;
+  --br-2xs: 16px;
+  --br-xs: 18px;
+  --br-sm: 20px;
+  --br-md: 24px;
+  --br-lg: 29px;
+  --br-xl: 30px;
+  --br-2xl: 50px;
+  --br-3xl: 59px;
+  --br-4xl: 62px;
+  --br-5xl: 72px;
+  --br-6xl: 153px;
+}
